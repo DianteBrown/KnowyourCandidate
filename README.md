@@ -10,4 +10,4 @@ This is a React Native app designed to provide voters with easy access to detail
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/your-repo-name.git
+   git clone https://github.com/YOUR-USERNAME/KnowyourCandidate.git
